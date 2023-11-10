@@ -1,7 +1,7 @@
 # **Anastasia Ogorodnik**
 
 ## **Contact information:**
-E-mail: farmer206@gmail.com
+E-mail: farmer206th@gmail.com
 
 Telegram: [@farmer206th](https://t.me/farmer206th)
 
