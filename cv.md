@@ -62,6 +62,8 @@ After that, I needed to close the knowledge gaps about network technologies. I g
     + [Web Development for beginners: HTML and CSS](https://stepik.org/cert/1472732?lang=en)
 * HTML Academy
 
+![html_academy_srt](images/hacademy-statistic.png)
+
 ## **English Language:**
 
 A2 (B1 in process…)
